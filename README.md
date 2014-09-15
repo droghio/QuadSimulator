@@ -9,8 +9,13 @@ QuadSimulator
 You'll need blender, grab a copy here <a href="http://www.blender.org/">blender</a>. If you are not familiar with blender I would highly suggest looking online for some tutorials.
 
 
+
+
 ###RUNNING
+  Double click the ".blend" file.
   Press the "p" key.
+
+
 
 
 ###CONFIGURATION
