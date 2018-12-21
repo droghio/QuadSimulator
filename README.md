@@ -4,21 +4,21 @@ QuadSimulator
 ***A blender powered simulator for trying out quadcopter stabilzation algorithms.***
 
 
-###PREREQUISITES
+### PREREQUISITES
 
 You'll need blender, grab a copy here <a href="http://www.blender.org/">blender</a>. If you are not familiar with blender I would highly suggest looking online for some tutorials.
 
 
 
 
-###RUNNING
+### RUNNING
   Double click the ".blend" file.
   Press the "p" key.
 
 
 
 
-###CONFIGURATION
+### CONFIGURATION
 
 After grabbing the repo double click the .blend file, it should automatically load in blender.
 
@@ -40,7 +40,7 @@ The function must return the RPMs for each motor, remember couterclockwise rotat
 
 
 
-###DETAILS
+### DETAILS
 
 Right now the program does not really look for directional input (ie "go forward, turn left, move up") but that'll change shortly.
 For now can press the w or e keys to launch either of the front fans to max rpm.
